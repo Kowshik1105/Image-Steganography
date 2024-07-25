@@ -45,6 +45,8 @@ Authentication and Integrity Checking: Embedding information that can be used to
 | <img src="encode.jpg" alt="Original Image" /> | <img src="Decode.png" alt="Encoded Image"/> |
 | Original | Encoded |
 
+# Conclusion
+Image steganography is a powerful and versatile technique for hiding information within digital images. Its methods range from simple LSB insertion to more complex frequency domain techniques, each with its own strengths and use cases. The choice of method depends on the specific requirements for robustness, capacity, and imperceptibility.
 
 
 
